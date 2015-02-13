@@ -1,0 +1,42 @@
+A Test of RStudio Presentation 
+========================================================
+author: Richard Morrisey
+date: February 11, 2015
+transition: rotate
+font-import: 'http://fonts.googleapis.com/css?family=Droid+Serif'
+font-family: 'Droid Serif'
+
+Starting out
+========================================================
+
+Let's begin at the beginning
+**Help** button on the toolbar.
+
+- First there was "Hello World"
+- Then there was Goodnight Moon.
+- Finally, it was "Good Moring Vietname"
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Slide with a little math
+=======================================================
+
+Let's look at $1+x^2$ a little closer
+
+This is column 1
+
+***
+
+And this is column two
